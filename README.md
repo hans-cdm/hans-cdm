@@ -28,17 +28,27 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=hans-cdm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Stats" />
+      <img src="./assets/bookshelf-card.svg" width="100%" alt="Living Git Bookshelf" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=hans-cdm&theme=tokyonight&background=0D1117&border=1F2937&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakNum=F59E0B&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=38BDF8" width="100%" alt="Streak Stats" />
+      <img src="./assets/telemetry-card.svg" width="100%" alt="Library Telemetry" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hans-cdm&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+<img src="https://streak-stats.demolab.com/?user=hans-cdm&theme=dark&background=080C14&border=1E293B&stroke=10B981&ring=10B981&fire=F59E0B&currStreakNum=F59E0B&sideNums=E2E8F0&currStreakLabel=10B981&sideLabels=94A3B8&dates=34D399" width="100%" alt="hans-cdm Streak Stats" />
+
+</div>
+
+---
+
+### 📈 Contribution Landscape
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hans-cdm&theme=tokyo-night&area=true&hide_border=true&bg_color=080c14&color=10b981&line=10b981&point=f59e0b" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -89,7 +99,7 @@
 
 <div align="center">
 
-[![Email Badge](https://img.shields.io/badge/EMAIL-hpra0097%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:hpra0097@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GITHUB-hans--cdm-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/hans-cdm)
+[![Email Badge](https://img.shields.io/badge/EMAIL-hpra0097%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080C14)](mailto:hpra0097@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GITHUB-hans--cdm-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=080C14)](https://github.com/hans-cdm)
 
 </div>

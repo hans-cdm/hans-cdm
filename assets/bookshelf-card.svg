@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 340" width="100%" height="340">
+  <defs>
+    <!-- Background Gradient (Dark Eye Comfort Slate) -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="50%" stop-color="#0c111c" />
+      <stop offset="100%" stop-color="#080c14" />
+    </linearGradient>
+
+    <!-- Warm Amber Radial Glow (Low-energy 585nm for eye resting) -->
+    <radialGradient id="lampWarm" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.28" />
+      <stop offset="70%" stop-color="#f59e0b" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="woodTeak" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2c1e13" />
+      <stop offset="50%" stop-color="#453120" />
+      <stop offset="100%" stop-color="#23170e" />
+    </linearGradient>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+  </style>
+
+  <!-- Outer Window Frame -->
+  <rect x="2" y="2" width="456" height="336" rx="10" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Window Header -->
+  <rect x="2" y="2" width="456" height="30" rx="10" fill="#0f172a" />
+  <rect x="2" y="20" width="456" height="10" fill="#0f172a" />
+  <line x1="2" y1="30" x2="458" y2="30" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Action Dots -->
+  <circle cx="16" cy="16" r="4.5" fill="#ef4444" />
+  <circle cx="30" cy="16" r="4.5" fill="#f59e0b" />
+  <circle cx="44" cy="16" r="4.5" fill="#10b981" />
+
+  <text x="230" y="20" text-anchor="middle" fill="#64748b" font-size="11" class="mono">
+    hans-cdm@study-desk: ~ (bookshelf)
+  </text>
+
+  <!-- Title & Subtitle -->
+  <text x="24" y="58" fill="#10b981" font-size="12" font-weight="700" class="mono" letter-spacing="0.5">
+    LIVING GIT-BOOKSHELF // DIGITAL ARCHIVE
+  </text>
+  <text x="24" y="74" fill="#64748b" font-size="10.5" class="mono">
+    Stepped volumes &amp; repositories synced with git
+  </text>
+
+  <!-- ==================== MAIN BOOKSHELF ILLUSTRATION ==================== -->
+  <g transform="translate(130, 85)">
+    <!-- Ambient Lamp Glow -->
+    <circle cx="100" cy="85" r="95" fill="url(#lampWarm)" />
+
+    <!-- Desk Lamp -->
+    <g transform="translate(135, 12)">
+      <path d="M 0 24 L 14 6 L 24 6 L 28 24 Z" fill="#334155" stroke="#475569" stroke-width="1" />
+      <circle cx="14" cy="20" r="3.5" fill="#fbbf24" filter="url(#softGlow)" />
+      <path d="M 19 6 L 24 -2 L 30 5" stroke="#64748b" stroke-width="1.8" fill="none" stroke-linecap="round" />
+      <polygon points="2,24 26,24 48,80 -15,80" fill="#fef08a" opacity="0.08" />
+    </g>
+
+    <!-- Top Shelf Plank -->
+    <rect x="0" y="90" width="190" height="7" rx="1.5" fill="url(#woodTeak)" />
+    <rect x="2" y="97" width="186" height="2" fill="#000000" opacity="0.4" />
+
+    <!-- Plant on Top Shelf -->
+    <polygon points="20,90 34,90 31,78 23,78" fill="#b91c1c" />
+    <ellipse cx="27" cy="78" rx="4.5" ry="1.5" fill="#451a03" />
+    <path d="M 27 78 Q 22 68 18 71 Q 25 74 27 78" fill="#10b981" />
+    <path d="M 27 78 Q 28 64 33 67 Q 29 73 27 78" fill="#059669" />
+    <path d="M 27 78 Q 27 62 25 60 Q 29 70 27 78" fill="#34d399" />
+
+    <!-- Books on Top Shelf -->
+    <rect x="48" y="44" width="12" height="46" rx="1" fill="#38bdf8" />
+    <rect x="62" y="38" width="13" height="52" rx="1" fill="#f59e0b" />
+    <rect x="77" y="46" width="10" height="44" rx="1" fill="#10b981" />
+    <g transform="translate(98, 90) rotate(16) translate(-8, -44)">
+      <rect x="0" y="0" width="12" height="44" rx="1" fill="#ec4899" />
+    </g>
+
+    <!-- Bottom Shelf Plank -->
+    <rect x="0" y="158" width="190" height="7" rx="1.5" fill="url(#woodTeak)" />
+    <rect x="2" y="165" width="186" height="2" fill="#000000" opacity="0.4" />
+
+    <!-- Books on Bottom Shelf -->
+    <!-- JS Book -->
+    <rect x="14" y="106" width="16" height="52" rx="1.2" fill="#eab308" />
+    <text x="22" y="136" font-size="8" fill="#422006" font-weight="bold" class="mono" text-anchor="middle" transform="rotate(-90 22 136)">JS</text>
+
+    <!-- PHP Book -->
+    <rect x="32" y="110" width="17" height="48" rx="1.2" fill="#6366f1" />
+    <text x="40.5" y="138" font-size="8" fill="#ffffff" font-weight="bold" class="mono" text-anchor="middle" transform="rotate(-90 40.5 138)">PHP</text>
+
+    <!-- TS Book -->
+    <rect x="51" y="104" width="15" height="54" rx="1.2" fill="#0284c7" />
+    <text x="58.5" y="135" font-size="8" fill="#ffffff" font-weight="bold" class="mono" text-anchor="middle" transform="rotate(-90 58.5 135)">TS</text>
+
+    <!-- BOT Book -->
+    <rect x="68" y="112" width="16" height="46" rx="1.2" fill="#0d9488" />
+    <text x="76" y="139" font-size="7.5" fill="#ffffff" font-weight="bold" class="mono" text-anchor="middle" transform="rotate(-90 76 139)">BOT</text>
+
+    <!-- APP Book (leaning) -->
+    <g transform="translate(94, 158) rotate(14) translate(-8, -48)">
+      <rect x="0" y="0" width="16" height="48" rx="1.2" fill="#9333ea" />
+      <text x="8" y="28" font-size="7.5" fill="#ffffff" font-weight="bold" class="mono" text-anchor="middle" transform="rotate(-90 8 28)">APP</text>
+    </g>
+
+    <!-- Bookend -->
+    <rect x="150" y="130" width="22" height="28" rx="2" fill="#334155" stroke="#475569" stroke-width="1" />
+
+    <!-- Shelf Frame Pillars -->
+    <rect x="0" y="90" width="5" height="75" fill="#20160d" />
+    <rect x="185" y="90" width="5" height="75" fill="#20160d" />
+  </g>
+
+  <!-- Footer Status Bar -->
+  <g transform="translate(24, 288)">
+    <rect x="0" y="0" width="412" height="26" rx="5" fill="#0a0f18" stroke="#1e293b" />
+    <circle cx="14" cy="13" r="3.5" fill="#10b981" filter="url(#softGlow)" />
+    <text x="24" y="17" fill="#64748b" font-size="9.5" class="mono">
+      BIOME: STUDY-DESK <tspan fill="#334155">|</tspan> GROWTH: REAL-TIME <tspan fill="#334155">|</tspan> ADAPTIVE
+    </text>
+  </g>
+</svg>
