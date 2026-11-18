@@ -9,16 +9,15 @@
 ### 💻 System Specs & Environment
 
 ```text
-       ._____________________________________.
-       | [===] [===] [===]     |   |===|     |      hans-cdm@workstation
-       |  JS   PHP    TS       |   |Git|     |     ----------------------
-       |=======================+=============|     OS: Windows 11 Home 64-bit
-       |  [=====]  [=====]     |    ---      |     CPU: AMD Ryzen 5 6600H (6C/12T)
-       |   Apps     Bots       |   |o o|     |     RAM: 16 GB DDR5
-       |=======================+=============|     Shell: PowerShell 5.1 / Windows Terminal
-       |  [           Shelves of Code        |     Active Stack: JavaScript | TypeScript | Tcl | PHP
-       |_____________________________________|     Specialization: [Masa Eksplorasi / Belum Terspesialisasi]
-                                                   Growth Status: Continuous Evolution 🌱
+████████   ████████      hans-cdm@workstation
+████████   ████████     ----------------------
+████████   ████████     OS: Windows 11 Home (64-bit)
+████████   ████████     Host/CPU: AMD Ryzen 5 6600H (6C/12T)
+                        Memory: 16 GB DDR5
+████████   ████████     Shell: PowerShell 5.1 / Windows Terminal
+████████   ████████     Active Stack: JavaScript | TypeScript | Tcl | PHP
+████████   ████████     Specialization: [Masa Eksplorasi / Belum Terspesialisasi]
+████████   ████████     Growth Status: Continuous Evolution 🌱
 ```
 
 ---
@@ -29,13 +28,18 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hans-cdm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=hans-cdm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://streak-stats.demolab.com/?user=hans-cdm&theme=tokyonight&background=0D1117&border=1F2937&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakNum=F59E0B&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=38BDF8" width="100%" alt="Streak Stats" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hans-cdm&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+
 </div>
 
 ---
