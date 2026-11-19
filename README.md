@@ -15,7 +15,7 @@
 ████████   ████████     Host/CPU: AMD Ryzen 5 6600H (6C/12T)
                         Memory: 16 GB DDR5
 ████████   ████████     Shell: PowerShell 5.1 / Windows Terminal
-████████   ████████     Active Stack: Batchfile | JavaScript | TypeScript | Tcl | PHP
+████████   ████████     Active Stack: JavaScript | Batchfile | TypeScript | Tcl | PHP
 ████████   ████████     Specialization: [Masa Eksplorasi / Belum Terspesialisasi]
 ████████   ████████     Growth Status: Continuous Evolution 🌱
 ```
@@ -59,7 +59,8 @@
 <!-- REPOS-LIST:START -->
 | 📦 Project / Buku | 📝 Fokus / Deskripsi | ⚡ Bahasa Utama | ⭐ Stars | 🕒 Terakhir Push |
 | :--- | :--- | :---: | :---: | :---: |
-| **[`hans-cdm / reverse-tools`](https://github.com/hans-cdm/reverse-tools)** | *Belum ada deskripsi* | Batchfile | `—` | `-1d ago` |
+| **[`hans-cdm / ukk-livecode-trainer`](https://github.com/hans-cdm/ukk-livecode-trainer)** | *Belum ada deskripsi* | 🟨 JavaScript | `—` | `just now` |
+| **[`hans-cdm / reverse-tools`](https://github.com/hans-cdm/reverse-tools)** | *Belum ada deskripsi* | Batchfile | `—` | `just now` |
 | **[`hans-cdm / hitori`](https://github.com/hans-cdm/hitori)** | New Base Bot WhatsApp | 🟨 JavaScript | `—` | `2mo ago` |
 | **[`hans-cdm / LAGI`](https://github.com/hans-cdm/LAGI)** | *Belum ada deskripsi* | 🟨 JavaScript | `—` | `7mo ago` |
 | **[`hans-cdm / Server-Reset-Manager-for-seedloaf`](https://github.com/hans-cdm/Server-Reset-Manager-for-seedloaf)** | Repository for https://replit.com/@hpra0097/Server-Reset-Manager | 🟨 JavaScript | `—` | `7mo ago` |
@@ -82,8 +83,8 @@
 
 ```
 ┌── [UNLOCKED LANGUAGES]
+│   ├── JavaScript       ── Modern asynchronous services, bots, and web interactivity (4 repo)
 │   ├── Batchfile        ── Used across 1 repository/projects (1 repo)
-│   ├── JavaScript       ── Modern asynchronous services, bots, and web interactivity (3 repo)
 │   ├── TypeScript       ── Type-safe development and scalable architecture (1 repo)
 │   ├── Tcl              ── Scripting, tooling, and command execution (1 repo)
 │   └── PHP              ── Server-side web scripting and backend endpoints (3 repo)
