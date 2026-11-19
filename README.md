@@ -59,7 +59,7 @@
 <!-- REPOS-LIST:START -->
 | 📦 Project / Buku | 📝 Fokus / Deskripsi | ⚡ Bahasa Utama | ⭐ Stars | 🕒 Terakhir Push |
 | :--- | :--- | :---: | :---: | :---: |
-| **[`hans-cdm / ukk-livecode-trainer`](https://github.com/hans-cdm/ukk-livecode-trainer)** | *Belum ada deskripsi* | 🟨 JavaScript | `—` | `just now` |
+| **[`hans-cdm / ukk-livecode-trainer`](https://github.com/hans-cdm/ukk-livecode-trainer)** | *Belum ada deskripsi* | 🟨 JavaScript | `—` | `-1d ago` |
 | **[`hans-cdm / reverse-tools`](https://github.com/hans-cdm/reverse-tools)** | *Belum ada deskripsi* | Batchfile | `—` | `just now` |
 | **[`hans-cdm / hitori`](https://github.com/hans-cdm/hitori)** | New Base Bot WhatsApp | 🟨 JavaScript | `—` | `2mo ago` |
 | **[`hans-cdm / LAGI`](https://github.com/hans-cdm/LAGI)** | *Belum ada deskripsi* | 🟨 JavaScript | `—` | `7mo ago` |
