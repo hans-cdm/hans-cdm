@@ -60,7 +60,7 @@
 | 📦 Project / Buku | 📝 Fokus / Deskripsi | ⚡ Bahasa Utama | ⭐ Stars | 🕒 Terakhir Push |
 | :--- | :--- | :---: | :---: | :---: |
 | **[`hans-cdm / reverse-tools`](https://github.com/hans-cdm/reverse-tools)** | *Belum ada deskripsi* | Batchfile | `—` | `1d ago` |
-| **[`hans-cdm / ukk-livecode-trainer`](https://github.com/hans-cdm/ukk-livecode-trainer)** | *Belum ada deskripsi* | 🟨 JavaScript | `—` | `5d ago` |
+| **[`hans-cdm / ukk-livecode-trainer`](https://github.com/hans-cdm/ukk-livecode-trainer)** | *Belum ada deskripsi* | 🟨 JavaScript | `—` | `6d ago` |
 | **[`hans-cdm / hitori`](https://github.com/hans-cdm/hitori)** | New Base Bot WhatsApp | 🟨 JavaScript | `—` | `2mo ago` |
 | **[`hans-cdm / LAGI`](https://github.com/hans-cdm/LAGI)** | *Belum ada deskripsi* | 🟨 JavaScript | `—` | `7mo ago` |
 | **[`hans-cdm / Server-Reset-Manager-for-seedloaf`](https://github.com/hans-cdm/Server-Reset-Manager-for-seedloaf)** | Repository for https://replit.com/@hpra0097/Server-Reset-Manager | 🟨 JavaScript | `—` | `7mo ago` |
